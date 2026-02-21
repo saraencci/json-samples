@@ -1,0 +1,218 @@
+{
+  "currency": "*",
+  "matrix": 
+
+  [
+  {        
+    "category": "Mobile Phones",      
+    "suggestions": [               
+      "Fast Chargers|q=charger",        
+      "Power Banks|q=power bank",        
+      "Earbuds|q=earbuds"      
+    ] 
+  },
+
+  {        
+    "category": "Televisions",      
+    "suggestions": [        
+             
+      "TV Wall Mounts|q=tv wall mount",
+      "Full motion wall mounts|q=full motion wall mount",  
+      "TV Guards |q=tv guard",      
+      "Sound Bars|q=sound bar",        
+      "Extension Cables|q=extension cable"     
+            
+    ] 
+  },
+
+  {        
+    "category": "Laptops",      
+    "suggestions": [        
+      "Wireless Mouse|q=wireless mouse",        
+      "Laptop Bags|q=laptop bag",        
+      "Laptop stands|q=laptop cooling stand",        
+      "USB Hub|q=usb hub"
+        ] 
+  },
+
+  {        
+    "category": "Tablets",      
+    "suggestions": [        
+      "Tablet stands|q=tablet stand",               
+      "Stylus Pens|q=stylus pen",        
+      "Tablet Keyboards|q=portable wireless keyboard",        
+      "Fast Chargers|q=fast charger"      
+    ] 
+  },
+
+  {        
+    "category": "Printers",      
+    "suggestions": [        
+      "Printer Ink|q=printer ink",        
+      "Toner Cartridges|q=toner cartridge",        
+      "A4 Printing Paper|q=a4 printing paper",        
+      "USB Printer Cable|q=printer cable",        
+      "Printer Dust Cover|q=printer dust cover"      
+    ] 
+  },
+
+  {        
+    "category": "Refrigerators",      
+    "suggestions": [        
+      "Voltage Protectors|q=fridge voltage protector",        
+      "Extension Cables|q=extension cable",        
+      "Fridge Organizers|q=fridge organizer",        
+      "Ice Trays|q=ice tray",        
+      "Fridge Deodorizer|q=fridge deodorizer"      
+    ] 
+  },
+
+  {
+      "category": "Women Clothing",
+      "suggestions": [
+        "Ladies shoes|q=shoes ladies",
+        "Ladies blouse|q=Ladies blouse",
+        "Ladies handbag|q=Ladies handbag",
+        "Ladies wallet|q=Ladies wallet"
+      ]
+    },
+
+  {        
+    "category": "Washing Machines",      
+    "suggestions": [        
+      "Washing powder|q=washing mashine powder",
+      "Voltage Protectors|q=voltage protector",        
+      "Water Inlet Pipes|q=washing machine pipe",        
+      "Extension Cables|q=extension cable",        
+      "Laundry Baskets|q=laundry basket",        
+      "Lint Remover|q=lint remover" 
+         
+    ] 
+  },
+
+  
+
+  {        
+    "category": "Gaming Consoles",      
+    "suggestions": [        
+      "Game Controllers|q=game controller",        
+      "Gaming Headsets|q=gaming headset",        
+      "HDMI Cables|q=hdmi cable",        
+      "Controller Charging Dock|q=controller charging dock",        
+      "Controller Covers|q=controller cover"      
+    ] 
+  },
+
+  {        
+    "category": "Cameras",      
+    "suggestions": [        
+      "Memory Cards|q=camera memory card",        
+      "Extra Batteries|q=camera battery",        
+      "Camera Cleaning Kit|q=camera cleaning kit",        
+      "Tripods|q=camera tripod",        
+      "Camera Bag|q=camera bag"      
+    ] 
+  },
+
+  {        
+    "category": "Beds & Mattresses",      
+    "suggestions": [        
+      "Mattress Protectors|q=mattress protector",        
+      "Bed Sheets|q=bed sheet set",        
+      "Pillows|q=bed pillow",        
+      "Mosquito Nets|q=mosquito net",        
+      "Duvet Covers|q=duvet cover"      
+    ] 
+  },
+
+  {        
+    "category": "Car Accessories",      
+    "suggestions": [        
+      "Car Phone Holder|q=car phone holder",        
+      "Car Charger|q=car charger",        
+      "Car Floor Mats|q=car floor mat",        
+      "Seat Covers|q=car seat cover",        
+      "Car Air Freshener|q=car air freshener"      
+    ] 
+  },
+
+  {        
+    "category": "Power Tools",      
+    "suggestions": [        
+      "Drill Bits|q=drill bits",        
+      "Safety Gloves|q=safety gloves",        
+      "Protective Goggles|q=safety goggles",        
+      "Extension Cables|q=extension cable",        
+      "Tool Box|q=tool box"      
+    ] 
+  },
+
+  {        
+    "category": "Smart Home Devices",      
+    "suggestions": [        
+      "Smart Plugs|q=smart plug",        
+      "Smart Bulbs|q=smart bulb",        
+      "WiFi Range Extenders|q=wifi extender",        
+      "Surge Protectors|q=surge protector",        
+      "Batteries|q=aa batteries"      
+    ] 
+  },
+
+  {        
+    "category": "Men Clothing",      
+    "suggestions": [        
+      "Belts|q=men belt",        
+      "Wallets|q=men wallet",        
+      "Socks|q=men socks",        
+      "Wrist Watches|q=men watch",        
+      "Shoe Care Kits|q=shoe polish kit"      
+    ] 
+  },
+
+  {        
+    "category": "Women Clothing",      
+    "suggestions": [        
+      "Handbags|q=women handbag",        
+      "Jewelry Sets|q=jewelry set",        
+      "Hair Accessories|q=hair accessories",        
+      "Makeup Bags|q=makeup bag",        
+      "Shoe Care Kits|q=shoe polish kit"      
+    ] 
+  },
+
+  {        
+    "category": "Watches",      
+    "suggestions": [        
+      "Watch Straps|q=watch strap",        
+      "Watch Boxes|q=watch box",        
+      "Watch Winders|q=watch winder",        
+      "Battery Replacement|q=watch battery",        
+      "Cleaning Cloth|q=watch cleaning cloth"      
+    ] 
+  },
+
+  {        
+    "category": "Headphones",      
+    "suggestions": [        
+      "Earbuds|q=earbuds",        
+      "Headphone Case|q=headphone case",        
+      "Aux Cables|q=aux cable",        
+      "Bluetooth Adapters|q=bluetooth adapter",        
+      "Cable Organizer|q=cable organizer"      
+    ] 
+  },
+
+  {        
+    "category": "Home & Kitchen",      
+    "suggestions": [        
+      "Cookware Sets|q=cookware set",        
+      "Blenders|q=blender",        
+      "Microwaves|q=microwave",        
+      "Electric Kettles|q=electric kettle",        
+      "Kitchen Storage|q=kitchen storage"      
+    ] 
+  }
+]
+
+}
+  
