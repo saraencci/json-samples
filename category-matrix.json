@@ -1,6 +1,6 @@
 
   [
-    { "keywords": ["phone", "smartphone", "mobile phone", "Samsung A06"], "category": "Mobile Phones", "weight": 2 },
+    { "keywords": ["phone", "smartphone", "mobile phone", "Samsung A06","Tecno"], "category": "Mobile Phones", "weight": 2 },
     { "keywords": ["android phone", "iphone", "galaxy s"], "category": "Mobile Phones", "weight": 4 },
     { "keywords": ["tv", "television"], "category": "Televisions", "weight": 2 },
     { "keywords": ["smart tv", "android tv", "led tv", "oled tv"], "category": "Televisions", "weight": 4 },
