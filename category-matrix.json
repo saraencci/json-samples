@@ -4,8 +4,8 @@
     {"keywords":["apple","samsung","infinix","tecno","oppo","vivo","realme","xiaomi","huawei","nokia","motorola","itel","oneplus","google pixel"],"category":"Mobile Phones","weight":3},
     { "keywords": ["android phone", "iphone", "galaxy s","itel","poco"], "category": "Mobile Phones", "weight": 4 },
     { "keywords": ["tv", "television","SMART tv"], "category": "Televisions", "weight": 2 },
-    { "keywords": ["itel tv", "samsung tv","samsung tele","Hisense T", ], "category": "Televisions", "weight": 3.2},
-    { "keywords": ["Maybelline", "nivea radiant","L'Oréal ","Garnier", ], "category": "Ladies beauty", "weight": 4},
+    { "keywords": ["itel tv", "samsung tv","samsung tele","Hisense T" ], "category": "Televisions", "weight": 3.2},
+    { "keywords": ["Maybelline", "nivea radiant","L'Oréal ","Garnier" ], "category": "Ladies beauty", "weight": 4},
     
     { "keywords": ["smart tv", "android tv", "led tv", "oled tv"], "category": "Televisions", "weight": 4 },
     { "keywords": ["laptop", "notebook", "ultrabook", "chromebook"], "category": "Laptops", "weight": 3 },
