@@ -49,47 +49,56 @@ h2{
 <h2>1. Information Collection</h2>
 
 <p>
-The Cross-Selling Tool does <strong>not collect, store, transmit, or share any personal information</strong>.
+The Cross-Selling Tool does not collect personally identifiable information such as name, email, phone number, or passwords.
 </p>
 
-<p>The extension operates entirely within the user's browser and only reads limited product information from the webpage to generate cross-selling suggestions.</p>
+<p>
+However, the extension collects limited non-personal interaction data for analytics and performance improvement purposes.
+</p>
 
 </div>
 
 <div class="section">
-<h2>2. Data Used by the Extension</h2>
+<h2>2. Data We Collect</h2>
 
-<p>The extension may temporarily read the following information from the active webpage:</p>
+<p>The extension may collect the following non-personal usage data:</p>
 
 <ul>
-<li>Product title</li>
-<li>Product category information visible on the page</li>
-<li>Product page context (Product Display Page)</li>
+<li>Current page URL</li>
+<li>Product or item name displayed on the page</li>
+<li>Recommended product clicked</li>
+<li>Destination URL of clicked recommendation</li>
+<li>Timestamp of interaction</li>
 </ul>
 
-<p>This information is used only to generate item pairing suggestions within the browser session.</p>
+<p>Example data:</p>
+
+<pre>
+{
+  "item_url": "current page URL",
+  "next_page_url": "clicked product URL",
+  "item_clicked": "product name",
+  "created_at": "timestamp"
+}
+</pre>
 
 <div class="note">
-No data is stored, transmitted externally, or linked to any user identity.
+This data is used strictly for analytics such as measuring recommendation performance and improving relevance.
 </div>
 
 </div>
 
 <div class="section">
-<h2>3. No Personal Data Collection</h2>
+<h2>3. How Data Is Used</h2>
 
-<p>The extension does not collect or process:</p>
+<p>Collected data is used for:</p>
 
 <ul>
-<li>Personal information</li>
-<li>User account data</li>
-<li>Browsing history</li>
-<li>Cookies</li>
-<li>Authentication information</li>
-<li>Payment information</li>
+<li>Improving product recommendation relevance</li>
+<li>Measuring click-through performance (CTR)</li>
+<li>Debugging and improving extension functionality</li>
+<li>Aggregated analytics and performance insights</li>
 </ul>
-
-<p>All processing occurs locally within the browser.</p>
 
 </div>
 
@@ -97,7 +106,11 @@ No data is stored, transmitted externally, or linked to any user identity.
 <h2>4. Data Storage</h2>
 
 <p>
-The extension does not store user data locally or remotely. No databases, analytics services, or external APIs are used for data collection.
+Collected data is securely stored in a Supabase database under a usage analytics table.
+</p>
+
+<p>
+No personal identity data is stored, and all records are limited to interaction events.
 </p>
 
 </div>
@@ -106,39 +119,70 @@ The extension does not store user data locally or remotely. No databases, analyt
 <h2>5. Third-Party Services</h2>
 
 <p>
-The extension does not integrate with third-party tracking services, analytics platforms, or advertising networks.
+This extension uses Supabase for secure storage of anonymized interaction events.
+</p>
+
+<p>
+No advertising networks, trackers, or unrelated third-party analytics tools are used.
 </p>
 
 </div>
 
 <div class="section">
-<h2>6. Security</h2>
+<h2>6. Data Access & Security</h2>
 
 <p>
-Because the extension does not collect or transmit personal data, there is no exposure of user information to external systems.
+Only insert operations are allowed from the extension. No sensitive user data is accessible or exposed.
 </p>
 
 </div>
 
 <div class="section">
-<h2>7. Changes to This Policy</h2>
+<h2>7. Data Retention</h2>
 
 <p>
-This privacy policy may be updated if the extension functionality changes in the future. Any updates will be reflected on this page.
+Data may be retained for analytics purposes and may be periodically cleaned or aggregated. No personal profiling is performed.
 </p>
 
 </div>
 
 <div class="section">
-<h2>8. Contact</h2>
+<h2>8. Permissions</h2>
 
 <p>
-For questions regarding this privacy policy, please contact the extension developer at franksaraencci@gmail.com .
+The extension requires access to supported e-commerce websites in order to:
+</p>
+
+<ul>
+<li>Display product recommendations</li>
+<li>Track interaction events with recommendations</li>
+</ul>
+
+<p>No browsing history outside supported pages is accessed.</p>
+
+</div>
+
+<div class="section">
+<h2>9. Changes to This Policy</h2>
+
+<p>
+This privacy policy may be updated if the extension functionality changes. Updates will be reflected in this document.
 </p>
 
 </div>
 
-<p><strong>Last Updated:</strong> March 2026</p>
+<div class="section">
+<h2>10. Contact</h2>
+
+<p>
+For questions regarding this privacy policy, please contact:
+<br>
+franksaraencci@gmail.com
+</p>
+
+</div>
+
+<p><strong>Last Updated:</strong> April 2026</p>
 
 </body>
 </html>
